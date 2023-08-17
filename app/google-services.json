@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799538693646",
+    "project_id": "bcamcq-8a305",
+    "storage_bucket": "bcamcq-8a305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799538693646:android:9fb4bc99833667244dde5f",
+        "android_client_info": {
+          "package_name": "com.example.bcamcq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799538693646-8eggvhi70cdno723s54qrc160ud2fvi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8qRbVOS0ZjAN9aQQ5zW-n39LUZg9BeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799538693646-8eggvhi70cdno723s54qrc160ud2fvi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
